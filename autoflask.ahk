@@ -23,9 +23,8 @@ SendMode Input
 flasks := {1:1, 2:2, 3:3, 4:4, 5:"{Space}"}
 hp_flask := 5 ; hp flask position
 hp_threshold := 30 ; percentage of life left at which to trigger hp flask
-toggle_key := "F2" ; key to toggle autoflask script on/off
-hp_toggle_key := "F3" ; key to toggle hp autoflask script on/off
-hp_calibrate_key := "F4" ; calibrate the color of hp bar
+hp_toggle_key := "F11" ; key to toggle hp autoflask script on/off
+hp_calibrate_key := "F10" ; calibrate the color of hp bar
 attack_key := "RButton" ; key binded to your primary attack
 ; ----------------------------------------------------
 
